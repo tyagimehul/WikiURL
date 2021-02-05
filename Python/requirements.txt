@@ -1,2 +1,2 @@
-wikipediaapi==0.5.4
+Wikipedia-API==0.5.4
 progress==1.5
